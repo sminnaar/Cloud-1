@@ -1,3 +1,10 @@
+# Credentials
+Cloud-wtc-1-fd323fb1fb0b.json
+gcpCreds.json
+
+# Plans
+*-plan
+
 # Local .terraform directories
 **/.terraform/*
 
